@@ -7,4 +7,4 @@ for y in range(0,len(x),2):
         odd += x[y+1]
     
 print(even+odd)
-    
+    #Is its Printing ?
